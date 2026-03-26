@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { LoadingScreen } from "../components/loading-screen";
 
 type ExperienceItem = {
   dates: string;
