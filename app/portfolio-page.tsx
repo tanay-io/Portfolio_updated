@@ -510,7 +510,9 @@ export function PortfolioPage() {
 
               <div className="hero-links">
                 <a href="https://github.com/tanay-io/">GitHub</a>
-                <a href="https://www.linkedin.com/in/tanay-sachdeva-7119672b1/">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/tanay-sachdeva-7119672b1/">
+                  LinkedIn
+                </a>
                 <a href="#">Portfolio</a>
                 <a
                   className="site-nav-download"
