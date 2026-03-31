@@ -432,8 +432,7 @@ export function PortfolioPage() {
           ))}
           <a
             className="site-nav-download"
-            href="https://drive.google.com/uc?export=download&id=1UPDSFW1X6py45Jh_OeJeTcZ62uXuqNz3"
-          >
+            href="https://drive.google.com/uc?export=download&id=1FZ9F3uCVE1BbqQRq0NmPbmsjr0tglHKp"          >
             Download Resume
           </a>
         </nav>
